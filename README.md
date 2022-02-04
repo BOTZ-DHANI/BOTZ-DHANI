@@ -1,200 +1,73 @@
-</p>
+### Hi there 👋
+<h1 align="center">DhaniGans<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br></h1>
+
 <p align="center">
-<a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"><img title="AGUS BOT" src="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"></a>
-<p align="center">
-<a href="https://github.com/AgusAliansyah?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AgusAliansyah?color=blue&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/vvipbot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/vvipbot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AgusAliansyah/vvipbot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/AgusAliansyah/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AgusAliansyah/vvipbot-walabel=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgusAliansyah%2Fvvipbot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
+<img src="https://f.top4top.io/p_2226g4sdr0.jpg" width="100%" alt="Api Dhani"/>
 </p>
 
-<div align="center">
-   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"> "AGUS BOT" <a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvqY6F/vvipindo-bot.jpg" alt="vvipindo-bot" border="0"></a>
-    <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
+- hi my name is DhaniGans 🐣.
 
-# Hai 👋🏻
+- I'm currently focusing on --> JavaScript, dll 🤠.
 
-Re-upload numpang ganti nama gabakal bikin lu pro
-</div>
-
-
-## Give me Start ⭐ please
-
-## Alat
-
-Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/details?id=com.termux) 
-
-
-## Settings
-
-* Nama bot
-* Instagram
-* Kapan Bot aktif
-* Apikey mhankbarbar
-* Apikey vhtear
-* Kontak whatsapp owner
-
-Custom di sini [SETTING](https://github.com/AgusAliansyah/vvipbot-wa/blob/master/index.js/#L13)
-
-
-## Penginstalan
-
-Jika pertama kali membuka termux lakukan perintah berikut :
-```bash
-> pkg install git
-> pkg install wget
-> pkg install ffmpeg
-> pkg install nodejs
-> pkg install npm
-```
-Lalu clone repo
-```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
-```
-Lanjutkan dengan
-```bash
-> bash install.sh
-```
-Jika mengalami error, lakukan perintah manual berikut :
-```bash
-> pkg install tesseract
-> npm i -g cwebp
-> npm i -g ytdl
-> npm i node-tesseract-ocr
-> npm i
-> npm i got
-```
-Jalankan bot
-```bash
-> node index.js
-```
-Terakhir scan kode QR
+- I'm currently working on [`apidhani.herokuapp.com`](https://apidhani.herokuapp.com) 
 
 
 
-## FITUR
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
 
-| SIMSIMI |❌|
-| ------------- | ------------- |
-| Simsimi |❌|
+<p align="center">
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api?username=BOTZ-DHANI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
 
-| FUN |Yes|
-| ------------- | ------------- |
-| Say|✅|
-| Nama ninja|❌|
-| Puisi|✅|
-| Cerpen|✅|
-| Tagme|✅|
-| Seberapa gay|✅|
-| Seberapa bucin|✅|
-| Chat prank|✔|
-| Font alay|✅|
-| Family 100|✅|
-| Kata kata receh|✅|
-| Status bapack|✅|
-| Gombal|✅|
-|BUCIN|✅|
+<p align="center">
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOTZ-DHANI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+</p>
 
-| PRIMBON |Yes|
-| ------------- | ------------- |
-| Arti nama|✅|
-| Kecocokan nama|✅|
-| Get zodiak|✅|
-| Zodiak|❌|
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOTZ-DHANI" />
+</p>
 
-| Game |✅|
-| ------------- | ------------- |
-| Tebak gambar|✅|
-| Family 100|❌|
-| Truth or dare|✅|
-| Kerang ajaib (apakah, bolehkah, kapan)|✅|
+<p align="center">
+  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-BotDhani?-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA" /></a>
+  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
-
-| DOWNLOAD |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Instagram foto/video |✅|
-| Facebook video |✅|
-| Twitter video |✅|
-
-| TOOLS |Yes|
-| ------------- | ------------- |
-| Nulis|❌|
-| Stiker|✅|
-| OCR|✅|
-| Instagram stalker|✅|
-| Shortlink|✅|
-
-| PICTURE |Yes|
-| ------------- | ------------- |
-| Cecan|✅|
-| Cogan|✅|
-| Anime|✅|
-| Loli|✅|
-| Neko|✅|
-| Wallpaper|✅|
-| Quotes|✅|
-| Twitter|✅|
-| Meme|✅|
-| Img|✅|
-
-| TEXT |Yes|
-| ------------- | ------------- |
-| Quotes maker|✅|
-| Logo pornhub|✅|
-| Logo e-sport|❌|
-
-| EDUKASI |Yes|
-| ------------- | ------------- |
-| Al-Qur'an|✅|
-| Al-Qur'an per surah|✅|
-| Brainly|✅|
-| Wikipedia|✅|
-| Fakta|✅|
-| KBBI|✅|
-| Tanggal Nasional|✅|
-
-| WHEATER |Yes|
-| ------------- | ------------- |
-| Info BMKG |✅|
-| Info gempa |✅|
-| Info cuaca |✅|
-
-| Others |Yes|
-| ------------- | ------------- |
-| Jadwal tv|✅|
-| Jadwal tv (channel)|✅|
-| Jadwal sholat|✅|
-| Info Covid|✅|
-| Info anime|✅|
-| Lirik lagu|✅|
-| Chord lagu|✅|
-| Mini map|✅|
-
-| Groups |Yes|
-| ------------- | ------------- |
-| Merubah Nama grup|✅|
-| Merubah deskripsi grup|✅|
-| Menutup grup|✅|
-| Membuka grup|✅|
-| Ping|✅|
-| Owner|✅|
-
-## Contacts
-* [Instagram](https://www.instagram.com/agus.alnsyh71)
-* My whatsapp [Agus Aliansyah](https://wa.me/6289613469459)
+</p> 
+ #sosial media
 
 
-## Terimakasih untuk
-* [`Fdciabdul`](https://github.com/fdciabdul)
-* [`mrfzvx12`](https://github.com/mrfzvx12)
-* [`Aruga`](https://github.com/ArugaZ)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Alfiansx`](https://github.com/alfiansx)
-* [`Bintang73`](https://github.com/Bintang73)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`WhatsApp`](https://wa.me/message/IMGMIAUAWC54J1)
+
+* [`Rest Api`](https://apidhani.herokuapp.com)
+                                                  
+
+<!--
+**BOTZ-DHANI/BOTZ-DHANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
