@@ -1,40 +1,40 @@
-# Hello<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm DhaniGans !</h1>
-
-
-
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-</p>
-<p align='center'>
-
-
-
-
-
-
-<p align="center">
-  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api?username=BOTZ-DHANI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+<img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Welcome+To+Github+BOTZ-DHANI.;Hai,+nama+saya+DhaniOfficiall.;Saya+adalah+seorang+Programmer."" alt="rr">
 </p>
 
-<p align="center">
-  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOTZ-DHANI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+<b><details><summary>Contact Me</summary></b>
+* [`WhatsApp`](https://wa.me/6285174217900)
+* [`Instagram`](https://instagram.com/dhaniofficiall_)
+* Contact if there is a need or an error problem with my script.
+</details>
+
+<b><details><summary>Join My Group WhatsApp</summary></b>
+* [`Group WhatsApp Bot 1`](https://chat.whatsapp.com/D7dW6tp7emp5piyJGRKWcH)
+* [`Group WhatsApp Bot 2`](https://chat.whatsapp.com/KREr2OmTDoP3nP2co1zeK2)
+* [`Group WhatsApp Rest Apis`](https://chat.whatsapp.com/ERDubnfMyA4HyccbHTvwNY)
+* Please join to get information about scripts or share knowledge.
+</details>
+
+<b><details><summary>Donate</summary></b>
+* [`Saweria`](https://saweria.co/DhaniOfficiall)
+* [`Qris All Payment`](https://telegra.ph/file/eb7d30614a08c5e6cc7b0.jpg)
+* Thank you to those of you who have donated so that WhatsApp bots and rest api, etc. can continue to grow.
+</details>
+
+<hr/>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BOTZ-DHANI&theme=onedark" /></a>
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api?username=BOTZ-DHANI&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofyanAMV09" />
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-streak-stats.herokuapp.com?user=BOTZ-DHANI&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-
-<!---
-BOTZ-DHANI/BOTZ-DHANI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+<p align="center">
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOTZ-DHANI&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/BOTZ-DHANI"><img src="https://github-profile-trophy.vercel.app/?username=BOTZ-DHANI&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
