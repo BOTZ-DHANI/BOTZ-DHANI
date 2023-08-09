@@ -3,15 +3,13 @@
 </p>
 
 <b><details><summary>Contact Me</summary></b>
-* [`WhatsApp`](https://wa.me/6285174217900)
+* [`WhatsApp`](https://wa.me/6281333603591)
 * [`Instagram`](https://instagram.com/dhaniofficiall_)
 * Contact if there is a need or an error problem with my script.
 </details>
 
 <b><details><summary>Join My Group WhatsApp</summary></b>
-* [`Group WhatsApp Bot 1`](https://chat.whatsapp.com/D7dW6tp7emp5piyJGRKWcH)
-* [`Group WhatsApp Bot 2`](https://chat.whatsapp.com/KREr2OmTDoP3nP2co1zeK2)
-* [`Group WhatsApp Rest Apis`](https://chat.whatsapp.com/ERDubnfMyA4HyccbHTvwNY)
+* [`Group WhatsApp Bot 1`](https://chat.whatsapp.com/LhKmyLPQIeyKcFYpbncYcu)
 * Please join to get information about scripts or share knowledge.
 </details>
 
